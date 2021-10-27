@@ -1,0 +1,13 @@
+name: unb-est-app
+title: unb-est-app
+username:
+account: tukey-reis
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3834202
+bundleId: 5184229
+url: https://tukey.shinyapps.io/unb-est-app/
+when: 1635370082.33096
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: completo_est.csv|professores_dout.csv|www/logo_tukey.png

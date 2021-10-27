@@ -1,0 +1,13 @@
+name: disciplinas-est-app
+title: disciplinas-est-app
+username:
+account: tukey-reis
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3375545
+bundleId: 4007044
+url: https://tukey.shinyapps.io/disciplinas-est-app/
+when: 1608320164.23514
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: R/utils.R
